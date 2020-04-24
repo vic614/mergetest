@@ -1,1 +1,5 @@
 new line
+another
+good
+strange
+final
